@@ -67,7 +67,9 @@ let t = prompt("Quanto voc� recebe por dia?")
 
 alert(`Voce recebe ${t/p} por hora`)
 ```
--o console vai imprimir t dividido por p dizendo o quanto você recebe por hora. 
+-o console vai imprimir t dividido por p dizendo o quanto você recebe por hora.
+-Para p : horasTrabalhadas
+-para t : dinheiroDiario
 ---
 
 ### Documenta��o
