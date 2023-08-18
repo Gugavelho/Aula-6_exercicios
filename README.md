@@ -1,2 +1,2 @@
-# aula-6
+# Gustavo
 Exercícios com variáveis em JavaScript.
